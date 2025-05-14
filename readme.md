@@ -53,14 +53,14 @@ To use this project, follow these steps:
 
 3. Go to http://127.0.0.1:8000/docs#
 
-4. Split the dataset training/validation and prediction sets using `/split` endpoint.
+4. Split the dataset into training/validation and prediction sets using `/split` endpoint.
 
 5. Train the model using `/train` endpoint.
 
-6. Predict the results using the `/predict` endpoint.
+6. Predict the results using `/predict` endpoint.
 
 The prediction results will be saved in the `files/data/prediction_results.csv` file.
 
 ## Conclusion
 
-This project provides a comprehensive approach to predict students success using Random Fores Classifiers. Feel free to explore the code and customize it to fit your specific needs.
+This project provides a comprehensive approach to predict students success using Random Forest Classifier. Feel free to explore the code and customize it to fit your specific needs.
