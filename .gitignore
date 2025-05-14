@@ -46,4 +46,4 @@ coverage.xml
 Thumbs.db
 
 # Pickle files
-*.pkl
+# *.pkl
